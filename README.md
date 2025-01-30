@@ -3,6 +3,10 @@
 
 Este é um projeto simples de **FastAPI** que consome a [API pública Advice Slip](https://api.adviceslip.com/#endpoint-random) para fornecer conselhos aleatórios e específicos. 🚀
 
+## 📝 Documentação
+- **Swagger**: http://127.0.0.1:8000/docs
+
+
 ## ✨ Funcionalidades
 - 🔄 **Conselho Aleatório**: Obtenha um conselho aleatório.
 - 🎯 **Conselho por ID**: Obtenha um conselho específico pelo seu ID.
@@ -14,7 +18,7 @@ Este é um projeto simples de **FastAPI** que consome a [API pública Advice Sli
 - 🐍 **Python 3.8+**
 - 📦 **pip** (para gerenciar pacotes)
 - 🌐 **FastAPI** e **Uvicorn**
-- 📝 Loguru para logs melhorados
+- 📝 **Loguru** para logs melhorados
 
 ## 🚀 Instalação
 
